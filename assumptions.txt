@@ -1,0 +1,2 @@
+1. All employees have unique id. If two empoyees have same id, one employee will be overwritten by other.
+2. There is one & only one CEO in given employees list. i.e, One & only one employee will have blank manager id.
